@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on a [MERN stack project](https://github.com/purva5598/HotelBooking-App)
+- 🔭 I’m currently working on **MERN stack development**
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
