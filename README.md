@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ## Others:
-[![Other](https://skillicons.dev/icons?i=git,github,linux,bash,latex)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,github,linux,bash,latex,postman)](https://skillicons.dev)
 <br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
