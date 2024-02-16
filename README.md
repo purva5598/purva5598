@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **MERN stack development**
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently working on **problem solving**
 
 - 💬 Ask me about **frontend development**
 
