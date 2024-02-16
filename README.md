@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on **problem solving**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **Web Development and Data Structures**
 
 - 📫 How to reach me **sharmapurva5598@gmail.com**
 
