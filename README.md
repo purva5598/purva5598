@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 
 
-- 🔭 I’m currently working on **MERN stack development**
-
-- 🌱 I’m currently working on **problem solving**
+- 🌱 I’m currently improving my skills in **problem solving**
 
 - 💬 Ask me about **Web Development and Data Structures**
 
